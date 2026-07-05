@@ -1,0 +1,16 @@
+title = Ceas Digital
+package.name = ceasdigital
+package.domain = org.justin
+source.dir = .
+source.include_exts = py,png,jpg,kv,atlas
+version = 1.0
+requirements = python3
+orientation = portrait
+osx.python_version = 3
+osx.kivy_version = 2.2.0
+android.permissions = INTERNET
+android.api = 33
+android.minapi = 21
+android.sdk = 33
+android.ndk = 25c
+android.gradle_dependencies = 
